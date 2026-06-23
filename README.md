@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/shruthireddy-1505/junse_26/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shruthireddy-1505/junse_26/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0189-rotate-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/shruthireddy-1505/junse_26/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shruthireddy-1505/junse_26/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
