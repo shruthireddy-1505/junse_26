@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shruthireddy-1505/junse_26/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shruthireddy-1505/junse_26/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/junse_26/tree/master/0303-range-sum-query-immutable) |
 | [0746-min-cost-climbing-stairs](https://github.com/shruthireddy-1505/junse_26/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/shruthireddy-1505/junse_26/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/junse_26/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/shruthireddy-1505/junse_26/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/junse_26/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
