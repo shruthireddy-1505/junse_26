@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shruthireddy-1505/junse_26/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/junse_26/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/junse_26/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/junse_26/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/shruthireddy-1505/junse_26/tree/master/0746-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/junse_26/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/junse_26/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/junse_26/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shruthireddy-1505/junse_26/tree/master/1480-running-sum-of-1d-array) |
@@ -61,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/shruthireddy-1505/junse_26/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/junse_26/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
